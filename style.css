@@ -1,0 +1,57 @@
+div#anAdContainer, div#aolAdContainer {
+  display: none;
+  width: 0px
+}
+
+iframe#adsF0 {
+  width: 0px;
+}
+
+div#owaadbar {
+  display: none;
+  width: 0px;
+  height: 0px;
+}
+
+div._n_h, div._n_i {
+  display: none;
+  width: 0px;
+  top: 0px;
+  left: 0px;
+  height: 0px;
+}
+
+.choicesContainer {
+  display: none;
+  data: "";
+  background: none
+}
+
+.choiceslabel, .choices {
+  display: none;
+  color: transparent;
+  background: none
+}
+
+.adBar .choices {
+  background: url("../content/img/spacer.png");
+  width: 0px
+}
+
+a#intl_adChoiceIcon.choices {
+  height: 0px;
+  float: none;
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  background: url(nil);
+}
+
+._fc_4 {
+  display: none
+}
+
+iframe#adsF0 {
+  width: 0px;
+  src: ""
+}
